@@ -1,0 +1,8 @@
+1.Copy all files in one folder.
+
+2.Open cmd terminal window from the folder.
+
+3.Run make command to compile all code files.
+
+4.Run ATM executable file
+
